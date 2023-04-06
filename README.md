@@ -1,7 +1,7 @@
 👋🏾 Olá! Meu nome é Lilian Carvalho. Seja muito bem-vindo(a).
 - 💻 Busco oportunidade de trabalho em programação e desenvolvimento web.
 - 🌱  Atualmente estudo desenvolvimento Front-end e Back-end.
-- 📫  Contate-me: liliancsr@gmail.com
+- 📫  Contate-me: kleidk74@gmail.com
 - 😄 Pronomes: ELA/DELA.
 - ⚡ Curiosidade: apaixonada por  programação.
 
