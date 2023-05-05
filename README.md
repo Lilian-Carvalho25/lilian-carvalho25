@@ -1,10 +1,11 @@
-### Olá, meu nome é Lilian. Seja muito bem vindo(a) 👋🏾
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B2CBF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lilian.+Bem+vindo(a)!;Moro+em+São+Paulo+🗺️+;Sou+desenvolvedora+Jr.;+Sinta-se+à+vontade!;)](https://git.io/typing-svg)
 
 #### Sobre mim
-- 💻 Busco oportunidade de trabalho em programação e desenvolvimento web.
-- 🌱  Atualmente estudo desenvolvimento Front-end e Back-end.
-- 😄 Pronomes: ELA/DELA.
-- ⚡ Apaixonada por  programação.
+- ✔️ Busco oportunidade de trabalho em programação e desenvolvimento web.
+- ✔️  Atualmente estudo desenvolvimento Front-end e Back-end.
+- 👩🏾 Pronomes: ELA/DELA.
+- ✔️ Apaixonada por  programação.
 
 
 #### 💬 Encontre-me em outro lugar
