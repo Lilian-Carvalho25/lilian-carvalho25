@@ -1,28 +1,36 @@
+### Olá, meu nome é Lilian. Seja muito bem vindo(a) 👋🏾
 
-👋🏾 Olá! Meu nome é Lilian Carvalho. Seja muito bem-vindo(a).
+#### Sobre mim
 - 💻 Busco oportunidade de trabalho em programação e desenvolvimento web.
 - 🌱  Atualmente estudo desenvolvimento Front-end e Back-end.
-- 📫  Contate-me: kleidk74@gmail.com
 - 😄 Pronomes: ELA/DELA.
 - ⚡ Curiosidade: apaixonada por  programação.
 
-<div>
-  <a href="https://github.com/Lilian-Carvalho25">
-<img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=lilian-carvalho25&show_icons=true&theme=radical" />
-<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilian-carvalho25&hide_progress=true&theme=radical" />
 
- <div style="display: inline_block"><br>
-    <img align="center" alt="Alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Alan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- </div>
- 
- ##
- 
- <div>
- <a href="https://www.linkedin.com/in/lilian-carvalho-7581a8265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://discord.com/channels/@me" target="_blank"></a>
-  <a href = "mailto:contatohenrique2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
-  <a href="https://https://www.instagram.com/lilian_csr333/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
+#### 💬 Encontre-me em outro lugar
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lilian-carvalho/)](https://www.linkedin.com/in/lilian-carvalho-7581a8265/) 
+[![Gmail Badge](https://img.shields.io/badge/-kleidk74@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kleidk74@gmail.com)](mailto:kleidk74@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://https://https://www.instagram.com/lilian_csr.dev/)](https://www.instagram.com/lilian_csr.dev/)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#7A2BBAce1&height=120&section=header"/>
+
+
+
+<div>
+
 </div>
+
+  <div align="center">  
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lilian-carvalho25&show_icons=true&count_private=true&hide_border=true&title_color=301440ce1&icon_color=301440ce1&text_color=FFFFFF&bg_color=301440" alt="Lilian Carvalho github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilian-carvalho25&layout=compact&hide_border=true&title_color=FFFFFFce1&text_color=FFFFFF&bg_color=301440" />
+  
+ [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js)](https://skills.thijs.gg)
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#7A2BBAce1&height=120&section=footer"/>
+
+</div>
+
+
