@@ -13,7 +13,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-kleidk74@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kleidk74@gmail.com)](mailto:kleidk74@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://https://https://www.instagram.com/lilian_csr.dev/)](https://www.instagram.com/lilian_csr.dev/)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#7A2BBAce1&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 
 
@@ -26,10 +26,12 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lilian-carvalho25&show_icons=true&count_private=true&hide_border=true&title_color=301440ce1&icon_color=301440ce1&text_color=FFFFFF&bg_color=301440" alt="Lilian Carvalho github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilian-carvalho25&layout=compact&hide_border=true&title_color=FFFFFFce1&text_color=FFFFFF&bg_color=301440" />
   
- [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js)](https://skills.thijs.gg)
+  ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lilian-carvalho25&point=9C55DF&area_color=C77DFF&color=FFFFFF&custom_title=Lilian%20Carvalho%20Contribution%20Graph&line=5C0DA6&bg_color=161918&hide_border=true&area=true)
+  
+ [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js,figma,php)](https://skills.thijs.gg)
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#7A2BBAce1&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer"/>
 
 </div>
 
