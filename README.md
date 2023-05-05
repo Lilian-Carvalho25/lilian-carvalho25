@@ -4,7 +4,7 @@
 - 💻 Busco oportunidade de trabalho em programação e desenvolvimento web.
 - 🌱  Atualmente estudo desenvolvimento Front-end e Back-end.
 - 😄 Pronomes: ELA/DELA.
-- ⚡ Curiosidade: apaixonada por  programação.
+- ⚡ Apaixonada por  programação.
 
 
 #### 💬 Encontre-me em outro lugar
