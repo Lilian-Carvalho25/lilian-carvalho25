@@ -29,7 +29,7 @@
   
   ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lilian-carvalho25&point=9C55DF&area_color=C77DFF&color=FFFFFF&custom_title=Lilian%20Carvalho%20Contribution%20Graph&line=5C0DA6&bg_color=161918&hide_border=true&area=true)
   
- [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js,figma,php,bootstrap)](https://skills.thijs.gg)
+ [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js,figma,php,mysql,bootstrap)](https://skills.thijs.gg)
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer"/>
