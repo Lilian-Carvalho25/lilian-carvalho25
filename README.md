@@ -32,8 +32,6 @@
  [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js,bootstrap,figma,php,mysql)](https://skills.thijs.gg)
 </div>
 
-![Snake animation](https://github.com/Lilian-Carvalho25/Lilian-Carvalho25/blob/output/github-contribution-grid-snake.svg)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer"/>
 
 </div>
