@@ -3,7 +3,7 @@
 
 #### About me
 - #OPENTOWORK
-- ✔️ Access my portfolio <i>[Click here](https://lilian-carvalho25.github.io/portifolio-lilian/)
+- ✔️ Access my portfolio <i>[Click here](https://portifolio-lilian.vercel.app/)
 - ✔️ I'm a Full-Stack Jr developer.
 - 🍪 Cookie fan.
 
