@@ -34,6 +34,9 @@
  [![My skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap,react,figma,java,php,mysql)](https://skills.thijs.gg)
 </div>
 
+![snake animation](https://github.com/Lilian-Carvalho25/Lilian-Carvalho25/blob/output/github-contribution-grid-snake2.svg)
+
+###
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6932f5&height=120&section=footer"/>
 
