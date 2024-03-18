@@ -1,13 +1,12 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6932f5&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+a+Full-stack+jr+developer.;+Welcome!+👋🏾;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6932f5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+desenvolvedora+Full-Stack+Jr.+;+Bem-vindo(a)!+👋🏾;)](https://git.io/typing-svg)
 
 #### About me
-- #OPENTOWORK
-- ✔️ Access my portfolio <i>[Click here](https://portifolio-lilian.vercel.app/)
-- ✔️ I'm a Full-Stack Jr developer.
-- 🍪 Cookie fan.
+- ✔️ Acesse o meu portifólio para conhecer meus trabalhos <i>[Clique aqui](https://portifolio-lilian.vercel.app/)
+- ✔️ Eu sou desenvolvedora Full-Stack Jr.
+- 🍪 Uma grande fã de cookies.
 
-#### 💬 Find me somewhere else
+#### 💬 Vamos conversar?
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lilian-carvalho/)](https://www.linkedin.com/in/lilian-carvalho-7581a8265/) 
 [![Gmail Badge](https://img.shields.io/badge/-liliancarvalho.developer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liliancarvalho.developer@gmail.com)](mailto:liliancarvalho.developer@gmail.com) <br>
