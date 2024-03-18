@@ -31,7 +31,7 @@
    
 <div/>
   
- [![My skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap,react,figma,java,php,mysql)](https://skills.thijs.gg)
+ [![My skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap,tailwind,react,typescript,java,php,mysql,figma,illustrator,photoshop)](https://skills.thijs.gg)
 </div>
 
 <picture>
