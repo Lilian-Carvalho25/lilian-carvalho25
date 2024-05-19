@@ -2,9 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6932f5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+desenvolvedora+Full-Stack+Jr.+;+Bem-vindo(a)!+👋🏾;)](https://git.io/typing-svg)
 
 #### About me
-- ✔️ Acesse o meu portifólio para conhecer meus trabalhos <i>[Clique aqui](https://portifolio-lilian.vercel.app/)
-- ✔️ Eu sou desenvolvedora Full-Stack Jr.
-- 🍪 Uma grande fã de cookies.
+- Acesse o meu portifólio para conhecer meus trabalhos <i>[Clique aqui](https://portifolio-lilian.vercel.app/)
+- Eu sou desenvolvedora Full-Stack Jr.
+- Dev no itaú unibanco 🧡
+- Fã de cookies.
 
 #### 💬 Vamos conversar?
 
